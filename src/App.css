@@ -62,7 +62,7 @@ body {
 }
 
 .purple {
-  background-color: #800080; /* Color púrpura */
+  background-color: #800080; 
 }
 
 .glow {
@@ -75,19 +75,19 @@ body {
   opacity: 0.8;
 }
 
-/* Efecto de brillo más amarillento */
+
 .red.glow {
-  box-shadow: 0 0 20px 8px rgba(255, 69, 0, 0.6); /* Brillo más amarillento para el rojo */
+  box-shadow: 0 0 20px 8px rgba(255, 69, 0, 0.6); 
 }
 
 .yellow.glow {
-  box-shadow: 0 0 20px 8px rgba(255, 255, 0, 0.6); /* Brillo más amarillento para el amarillo */
+  box-shadow: 0 0 20px 8px rgba(255, 255, 0, 0.6); 
 }
 
 .green.glow {
-  box-shadow: 0 0 20px 8px rgba(50, 205, 50, 0.6); /* Brillo más amarillento para el verde */
+  box-shadow: 0 0 20px 8px rgba(50, 205, 50, 0.6); 
 }
 
 .purple.glow {
-  box-shadow: 0 0 20px 8px rgba(255, 0, 255, 0.6); /* Brillo más amarillento para el púrpura */
+  box-shadow: 0 0 20px 8px rgba(255, 0, 255, 0.6); 
 }
