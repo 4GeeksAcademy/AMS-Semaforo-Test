@@ -22,7 +22,7 @@ function App() {
   const togglePurple = () => {
     if (colors.includes("purple")) {
       setColors(colors.filter((col) => col !== "purple"));
-      if (color === "purple") setColor("red"); // Resetear a rojo si púrpura estaba activo
+      if (color === "purple") setColor("red");
     } else {
       setColors([...colors, "purple"]);
     }
